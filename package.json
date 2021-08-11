@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "cpf_validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cpf-cnpj-validator": "^1.0.3",
+    "express": "^4.17.1"
+  }
+}
